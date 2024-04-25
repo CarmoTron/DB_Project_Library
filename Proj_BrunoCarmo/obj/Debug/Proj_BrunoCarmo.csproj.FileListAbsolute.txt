@@ -42,4 +42,4 @@ C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\bin\Debug\
 C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\bin\Debug\System.Threading.Tasks.Extensions.xml
-C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\obj\Debug\Proj_Bru.D60115DF.Up2Date
+C:\Users\bruno\Desktop\Programacao\C#\Proj_BrunoCarmo\Proj_BrunoCarmo\obj\Debug\Proj_BrunoCarmo.csproj.CopyComplete
